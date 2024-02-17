@@ -37,6 +37,10 @@ As can be seen from the first section of the project, the data was obtained thro
 
 # Proyecto de Tasación de Viviendas en Madrid y Málaga 🏡💼
 
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
+</a>
+
 ## Contexto del Proyecto 🌐📊
 
 Este proyecto surge de una cuidadosa investigación y análisis para determinar la metodología más efectiva en el ámbito de tasación de viviendas. Después de considerar diversas técnicas de modelado estadístico y de aprendizaje automático, se optó por utilizar un modelo Random Forest debido a su precisión, flexibilidad y capacidad para manejar una amplia variedad de características de las viviendas.
