@@ -1,5 +1,9 @@
 # Housing Appraisal Project in Madrid and Malaga 🏡💼
 
+<a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera">
+</a>
+
 ## Project Context 🌐📊
 
 This project emerges from careful research and analysis to determine the most effective methodology in the field of housing appraisal. After considering various statistical modeling and machine learning techniques, the decision was made to use a Random Forest model due to its accuracy, flexibility, and ability to handle a wide variety of housing features.
